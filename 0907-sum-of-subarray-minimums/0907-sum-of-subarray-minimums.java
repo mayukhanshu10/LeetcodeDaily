@@ -26,7 +26,7 @@ class Solution {
         int[] ans = new int[n];
         
         for (int i = 0; i < n; i++) {
-            while (!st.isEmpty() && nums[st.peek()] > nums[i]) {
+            while (!st.isEmpty() && nums[st.peek()] > nums[i]) { // If same element present at lower index, we consider that as smaller element to left 
                 st.pop();
             }
             
