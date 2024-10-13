@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0030-substring-with-concatenation-of-all-words) |
+## String
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
