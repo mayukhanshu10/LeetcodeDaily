@@ -19,7 +19,8 @@ class Solution {
                 if (Math.abs(target-sum)<Math.abs(target-currentClosest)) {
                     // result.add(Arrays.asList(nums[i], nums[left], nums[right]));
                     currentClosest = sum;
-                } else if (sum < target) {
+                } 
+                if (sum < target) {
                     left++; // We need a larger sum
                 } else if (sum > target){
                     right--; // We need a smaller sum
