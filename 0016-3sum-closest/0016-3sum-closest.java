@@ -21,8 +21,10 @@ class Solution {
                     currentClosest = sum;
                 } else if (sum < target) {
                     left++; // We need a larger sum
-                } else {
+                } else if (sum > target){
                     right--; // We need a smaller sum
+                }else{
+                    return sum; //Since sum==target is found then return sum itself
                 }
             }
         }
