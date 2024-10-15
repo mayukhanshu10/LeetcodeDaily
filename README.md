@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,8 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
+## Depth-First Search
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
