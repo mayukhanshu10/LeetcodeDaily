@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0275-h-index-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0275-h-index-ii) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
 | ------- |
