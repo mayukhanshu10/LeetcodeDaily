@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0275-h-index-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0494-target-sum) |
+| [0605-can-place-flowers](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0605-can-place-flowers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
 | ------- |
