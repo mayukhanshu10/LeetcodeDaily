@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
