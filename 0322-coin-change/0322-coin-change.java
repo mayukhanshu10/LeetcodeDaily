@@ -5,7 +5,7 @@ class Solution {
         
         // Initialize dp array
         for (int j = 1; j <= amount; j++) {
-            dp[0][j] = amount + 1; // Set impossible cases for 0 coins
+            dp[0][j] = amount + 2; // Set impossible cases for 0 coins
         }
         
         for (int i = 0; i <= len; i++) {
@@ -15,7 +15,7 @@ class Solution {
         for (int i = 1; i <= len; i++) {
             for (int j = 1; j <= amount; j++) {
                 int np = dp[i - 1][j]; // Not picking the coin
-                int p = amount + 1; // Initialize as a large value for comparison
+                int p = amount + 2; // Initialize as a large value for comparison
                 if (coins[i - 1] <= j) {
                     p = 1 + dp[i][j - coins[i - 1]]; // Picking the coin
                 }
