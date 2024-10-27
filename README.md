@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0605-can-place-flowers) |
@@ -42,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -118,12 +121,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
