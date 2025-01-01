@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0345-reverse-vowels-of-a-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
