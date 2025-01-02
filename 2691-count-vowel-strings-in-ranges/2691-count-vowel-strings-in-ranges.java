@@ -1,3 +1,18 @@
+/*
+Prefix Sum for Preprocessing: We calculate a prefix sum array to store the cumulative
+count of words that start and end with vowels, enabling efficient range queries.
+
+Efficient Query Handling: Using the prefix array, we calculate the count of valid words 
+for any range [li, ri] in constant time by subtracting prefix sums.
+
+Vowel Check Optimization: The isStringVowel function determines if a word starts and ends 
+with a vowel, ensuring correctness while minimizing redundancy.
+
+Iterative Queries: For each query, the result is derived from the prefix array, 
+avoiding redundant computations and ensuring scalability for large inputs.
+*/
+
+
 class Solution {
     public int[] vowelStrings(String[] words, int[][] queries) {
         int len = queries.length;
