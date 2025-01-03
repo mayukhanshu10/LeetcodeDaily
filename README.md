@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0605-can-place-flowers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2358-number-of-ways-to-split-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
@@ -147,5 +148,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
