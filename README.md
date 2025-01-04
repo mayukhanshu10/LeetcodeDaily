@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0345-reverse-vowels-of-a-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2577-count-palindromic-subsequences](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2577-count-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0494-target-sum) |
+| [2577-count-palindromic-subsequences](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2577-count-palindromic-subsequences) |
 ## Greedy
 |  |
 | ------- |
