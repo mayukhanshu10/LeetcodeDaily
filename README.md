@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0605-can-place-flowers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0345-reverse-vowels-of-a-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2465-shifting-letters-ii) |
 | [2577-count-palindromic-subsequences](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2577-count-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
@@ -155,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
