@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0345-reverse-vowels-of-a-string) |
 | [0952-word-subsets](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0605-can-place-flowers) |
+| [1502-construct-k-palindrome-strings](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0347-top-k-frequent-elements) |
+| [1502-construct-k-palindrome-strings](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/1502-construct-k-palindrome-strings) |
 ## Prefix Sum
 |  |
 | ------- |
