@@ -1,28 +1,40 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
-        int len = coins.length;
-        int[][] dp = new int[len + 1][amount + 1];
-        
-        // Initialize dp array
-        for (int j = 1; j <= amount; j++) {
-            dp[0][j] = amount + 2; // Set impossible cases for 0 coins
+        if (amount == 0) return 0;
+        int dp[][] = new int[coins.length][amount+1];
+        for(int[] x: dp){
+            Arrays.fill(x,-1);
         }
-        
-        for (int i = 0; i <= len; i++) {
-            dp[i][0] = 0; // 0 coins needed to make amount 0
-        }
+        int result = findMinCoins(coins, amount, coins.length - 1,dp);
+        return result == Integer.MAX_VALUE ? -1 : result;
+    }
 
-        for (int i = 1; i <= len; i++) {
-            for (int j = 1; j <= amount; j++) {
-                int np = dp[i - 1][j]; // Not picking the coin
-                int p = amount + 2; // Initialize as a large value for comparison
-                if (coins[i - 1] <= j) {
-                    p = 1 + dp[i][j - coins[i - 1]]; // Picking the coin
-                }
-                dp[i][j] = Math.min(np, p);
+    private int findMinCoins(int[] coins, int amount, int ind, int[][] dp) {
+        //Base Case
+        if(ind==0){
+            if(amount%coins[ind]==0){
+                return dp[ind][amount]=amount/coins[ind];
+            }else{
+                return dp[ind][amount]=(int)Integer.MAX_VALUE;
             }
         }
-        
-        return dp[len][amount] > amount ? -1 : dp[len][amount];
+
+        if(dp[ind][amount]!=-1){
+            return dp[ind][amount];
+        }
+
+        //Not Pick
+        int np = findMinCoins(coins,amount,ind-1,dp);
+
+        //Pick
+        int p = (int)Integer.MAX_VALUE;
+        if(amount>=coins[ind]){
+            int subResult = findMinCoins(coins, amount - coins[ind], ind,dp);
+            if (subResult != Integer.MAX_VALUE) {
+                p = 1 + subResult;
+            }
+        }
+
+        return dp[ind][amount]=Math.min(np,p);
     }
 }
