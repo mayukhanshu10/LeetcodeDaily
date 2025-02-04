@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0208-implement-trie-prefix-tree](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/0445-add-two-numbers-ii) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/mayukhanshu10/LeetcodeDaily/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Tree
